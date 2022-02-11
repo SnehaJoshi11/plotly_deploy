@@ -1,4 +1,4 @@
-# plotly_depoly
+# plotly_deploy
 *A JavaScript and Plotly.js interactive dashboard*
 
 ## Project Overview
