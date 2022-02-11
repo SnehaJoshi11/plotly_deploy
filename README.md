@@ -23,7 +23,7 @@ The interactive dashboard can be found in the link that follows and please feel 
 <br>
 <br>
 <p align="center">
-:microbe: <b>Belly Button Biodiversity Interactive Dashboard:</b> https://snehajoshi11.github.io/plotly_depoly/ :microbe:
+:microbe: <b>Belly Button Biodiversity Interactive Dashboard:</b> https://snehajoshi11.github.io/plotly_deploy/ :microbe:
 </p>
 <br>
 
@@ -48,5 +48,5 @@ The interactive dashboard can be found in the link that follows and please feel 
     - To style the page [style.css](css/style.css)
 - Chrome Developer Tools to test the code.
 - GitHub
-    - To deploy and showcase the final results [Belly Button Biodiversity Dashboard](https://snehajoshi11.github.io/plotly_depoly/).
+    - To deploy and showcase the final results [Belly Button Biodiversity Dashboard](https://snehajoshi11.github.io/plotly_deploy/).
 
